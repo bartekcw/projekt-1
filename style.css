@@ -47,6 +47,11 @@ nav {
     right: 292px;
 }
 
+.nav4:disabled {
+    position: absolute;
+    right: 292px;
+}
+
 .nav4:hover {
     cursor:not-allowed;
 }
